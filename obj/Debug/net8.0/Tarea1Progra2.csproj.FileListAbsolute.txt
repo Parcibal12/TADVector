@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\bin\Debug\net8.0\Tarea1Progra2.exe
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\bin\Debug\net8.0\Tarea1Progra2.deps.json
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\bin\Debug\net8.0\Tarea1Progra2.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\bin\Debug\net8.0\Tarea1Progra2.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\bin\Debug\net8.0\Tarea1Progra2.pdb
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\refint\Tarea1Progra2.dll
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.pdb
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\Tarea1Progra2.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\Documents\vscode_projects\Tarea1Progra2\obj\Debug\net8.0\ref\Tarea1Progra2.dll
